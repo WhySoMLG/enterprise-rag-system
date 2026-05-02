@@ -1,0 +1,8 @@
+langchain
+langchain-mistralai
+langchain-community
+chromadb
+pypdf
+streamlit
+python-dotenv
+rapidocr-onnxruntime
